@@ -8,3 +8,6 @@ d= 1
 e= 2
 f= d+e
 print(f)
+
+g = c+f
+print(g)
