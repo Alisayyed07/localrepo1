@@ -12,3 +12,5 @@ print(f)
 h=c+f
 print(h)
 
+g = c+f
+print(g)
